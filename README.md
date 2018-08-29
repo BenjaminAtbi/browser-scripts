@@ -1,2 +1,2 @@
 # browser-scripts
-My collection of tapermonkey scripts
+A small collection of userscripts, with a focus on QOL browing enhancements. 
