@@ -1,2 +1,2 @@
 # browser-scripts
-A small collection of userscripts, with a focus on QOL browing enhancements. 
+A collection of userscripts for QOL browing enhancement. 
