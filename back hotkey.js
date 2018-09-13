@@ -8,7 +8,7 @@
 // @grant        none
 // ==/UserScript==
 
-document.addEventListener("keydown", function(event){
+document.addEventListener("keypress", function(event){
     if(event.key == "Backspace" && event.ctrlKey){
         window.history.back()
     }
