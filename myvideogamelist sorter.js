@@ -14,12 +14,10 @@ var sort_by_rating = function(a, b) {
 }
 
 var tables = document.getElementsByTagName("tbody");
-console.log("tables: ",tables);
 
 var table;
 for (var i = 0; i < 3; i++){
     var items = Array.prototype.slice.call(tables[i].children);
-    console.log(items)
     items.sort(sort_by_rating);
 
     for (var y = 0; y < items.length; y++) {
