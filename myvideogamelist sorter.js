@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  sort list by rating
 // @author       You
-// @match        https://myvideogamelist.com/list/
+// @match        myvideogamelist.com/list/*
 // @grant        none
 // ==/UserScript==
 
