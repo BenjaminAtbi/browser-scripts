@@ -1,10 +1,8 @@
 // ==UserScript==
 // @name         Toggle Reddit Sidebar
-// @namespace    http://www.reddit.com
 // @version      0.1
-// @description  try to take over the world!
 // @author       Benjamin Atbi
-// @include      *
+// @include      http://www.reddit.com
 // @grant        none
 // ==/UserScript==
 
