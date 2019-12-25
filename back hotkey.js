@@ -1,11 +1,7 @@
 // ==UserScript==
 // @name         back hotkey
-// @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
 // @author       Benjamin Atbi
-// @include      *
-// @grant        none
 // ==/UserScript==
 
 document.addEventListener("keydown", function(event){
