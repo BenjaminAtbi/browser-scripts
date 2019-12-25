@@ -1,10 +1,7 @@
 // ==UserScript==
 // @name         numbered google links
-// @namespace    www.google.ca/search
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @include      *
+// @include      www.google.ca/search
 // @grant        none
 // ==/UserScript==
 
