@@ -4,6 +4,7 @@
 // @description  sort list by rating
 // @author       You
 // @match        myvideogamelist.com/list/*
+// @match        myvideogamelist.com/mylist/*
 // @grant        none
 // ==/UserScript==
 
